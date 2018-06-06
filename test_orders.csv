@@ -1,0 +1,4 @@
+orderId,createDateTime,shipmentID,promiseDate,zipCode,state,country,sku,weight,quantityOrdered,storeId,quantitlyFulfilled,quantityDeclined,shippingMethod
+100,2018-04-01T06:17:48+00:00,s1000,2018-04-05,2129,ma,us,1234,1,4,9001,3,1,standardUps
+101,2018-04-01T06:18:48+00:00,s1001,2018-04-06,99501,ak,us,2345,1,5,9001,5,0,standardUps
+102,2018-04-01T06:19:48+00:00,s1002,2018-04-06,,         az,us,3456,1,6,9004,6,0,standardUps

@@ -1,0 +1,4 @@
+storeId,zipcode,state,country,enableShipFromStore,day,startTime,endTime,capacity,shippingMethods
+8601,2129,ma,us,1,mon,9:00,21:00,1,standardUps
+8602,2129,ak,us,0,tue,9:00,21:00,1,standardUps
+8603,2129,az,us,1,wed,9:00,21:00,1,standardUps
